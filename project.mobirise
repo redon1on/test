@@ -131,7 +131,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "showMedia": true,
+            "showMedia": false,
             "bgImageRadio": false,
             "paddingTop": "0",
             "paddingBottom": 0,
