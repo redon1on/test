@@ -7,10 +7,10 @@
       "title": "Unicore-Rus",
       "styling": {
         "primaryColor": "#333333",
-        "successColor": "#7ac673",
-        "infoColor": "#27aae0",
-        "warningColor": "#8fafc3",
-        "dangerColor": "#f97352",
+        "successColor": "#dbdbdb",
+        "infoColor": "#333333",
+        "warningColor": "#f44336",
+        "dangerColor": "#000000",
         "titleFont": "Montserrat",
         "textFont": "Raleway",
         "isSquareButtons": false
@@ -19,11 +19,12 @@
         "#ffffff",
         "#7ac673",
         "#333333",
-        "#dbdbdb"
+        "#dbdbdb",
+        "#000000"
       ]
     },
     "versionFirst": "4.7.2",
-    "uniqCompNum": 42,
+    "uniqCompNum": 45,
     "versionPublish": "4.7.2",
     "path": "@PROJECT_PATH@"
   },
@@ -59,7 +60,7 @@
             }
           },
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "hideButtons": false,
             "sticky": true,
@@ -69,7 +70,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Обзор</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Особенности</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Мобильный софт</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">На основе Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Модные блоки</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Ползунок изображения / содержимого</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">CКонтактные формы</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">IГалерея изображений</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Мобильное меню</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google карты</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Социальные кнопки</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Шрифты Google</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Видеоролик</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Хост везде</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Помощь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobiris.ru/\">Сайт</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary mbr-title-font\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Обзор</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Особенности</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Мобильный софт</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">На основе Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Модные блоки</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Ползунок изображения / содержимого</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">CКонтактные формы</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">IГалерея изображений</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Мобильное меню</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google карты</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Социальные кнопки</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Шрифты Google</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Видеоролик</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Хост везде</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Помощь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobiris.ru/\">Сайт</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn mbr-title-font btn-danger\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -112,7 +113,7 @@
           },
           "title": "<b>&nbsp; Landing Page Design</b>",
           "text": "Стильный сайт под ваши нужды<br><br>",
-          "buttons": "<a data-app-btn=\"true\" href=\"#\" class=\"btn mbr-title-font btn-lg btn-primary\" data-toolbar=\"-mbrBtnMove\">Заказать</a><a data-app-btn=\"true\" href=\"#\" class=\"btn mbr-title-font btn-lg btn-default btn-border\" data-toolbar=\"-mbrBtnMove\">Цены</a>",
+          "buttons": "<a data-app-btn=\"true\" href=\"#\" class=\"btn mbr-title-font btn-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">Заказать</a><a data-app-btn=\"true\" href=\"#\" class=\"btn mbr-title-font btn-lg btn-default btn-border\" data-toolbar=\"-mbrBtnMove\">Цены</a>",
           "alias": "unicore/components",
           "_tags": [
             "Тема"
@@ -127,7 +128,7 @@
               "font-size": "72px",
               "font-family": "'Source Sans Pro', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
-              "color": "#333333"
+              "color": "#000000"
             },
             "P": {
               "text-align": "center",
@@ -135,28 +136,6 @@
               "font-size": "20px"
             }
           }
-        },
-        {
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#333333",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "text": "",
-          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><span class=\"fa fa-vk mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-googleplus\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-pinterest\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a>     ",
-          "alias": "unicore/components",
-          "_tags": [
-            "Тема"
-          ],
-          "_name": "social-buttons2",
-          "_anchor": "social-buttons2-q"
         },
         {
           "_params": {
@@ -194,13 +173,13 @@
               "src": "@PROJECT_PATH@/assets/images/13.png"
             }
           },
-          "title1": "Мульти-макеты",
+          "title1": "Мобильная версия",
           "title2": "Быстрое обновление",
           "title3": "Clean Docs",
           "title4": "Креативность",
           "title5": "Great Heights",
           "title6": "Всесторонняя поддержка",
-          "text1": "Suspendisse nec lorem non porta iaculis odio dictum quis ac lorem.",
+          "text1": "Не один из элементов сайта не будет упущен в мобильной версии.",
           "text2": "Suspendisse nec lorem non porta iaculis odio dictum quis ac lorem.",
           "text3": "Suspendisse nec lorem non porta iaculis odio dictum quis ac lorem.",
           "text4": "Suspendisse nec lorem non porta iaculis odio dictum quis ac lorem.",
@@ -212,6 +191,28 @@
           ],
           "_name": "header22",
           "_anchor": "header22-t"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#333333",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "",
+          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><span class=\"fa fa-vk mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-googleplus\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-pinterest\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a>     ",
+          "alias": "unicore/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-q"
         },
         {
           "_params": {
@@ -373,13 +374,48 @@
         },
         {
           "_params": {
-            "paddingTop": 2,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#dbdbdb",
+            "bgColor": "#333333",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Контакты",
+          "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Вы можете связаться со мной с помощью формы обратной связи или написать по контактом ниже .",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn mbr-title-font cta-btn btn-default\" href=\"http://mobiris.ru\">Купить сейчас</a>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-16",
+          "_styles": {
+            "H2": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#333333",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -389,11 +425,11 @@
             "overlayOpacity": 0.5
           },
           "title": "Контактная фонрма",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn mbr-title-font btn-ico btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить<i class=\"fa fa-paper-plane-o\"></i></a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn mbr-title-font btn-ico btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить<i class=\"fa fa-paper-plane-o\"></i></a>",
           "form": {
             "action": "ant0ngolovin@yandex.ru",
             "alerts": {
-              "success": "Благодарим за заполнение формы!"
+              "success": "Благодарю за заполнение формы!"
             },
             "fields": {
               "name": {
@@ -407,7 +443,7 @@
                 "customTitle": "Email*"
               },
               "subject": {
-                "visible": true,
+                "visible": false,
                 "title": "subject",
                 "customTitle": "Тема"
               },
@@ -426,12 +462,12 @@
         },
         {
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "bgColorRadio": true,
-            "bgColor": "#dbdbdb",
+            "bgColor": "#333333",
             "parallax": false,
             "bgVideoRadio": false,
             "bgVideo": {
@@ -440,80 +476,33 @@
             "overlay": true,
             "overlayColor": "#151515",
             "overlayOpacity": 0.75,
-            "iconsColor": "@primaryColor",
+            "iconsColor": "#dbdbdb",
             "icon1": "fa-map-marker",
             "icon2": "fa-phone",
             "icon3": "fa-envelope"
           },
-          "title": "UNICORE",
-          "text1": "234 Wall Street<br>East Newyork, NY 20001",
-          "text2": "1800 1234 5678<br>(080) 1234 56789",
-          "text3": "info@website.com<br>Support@website.com",
-          "icons": "<a class=\"fa\" data-app-btn=\"true\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"fa fa-linkedin\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"fa fa-facebook\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"fa fa-twitter\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Dribble\" target=\"_blank\" href=\"https://dribbble.com/Mobirise\"><i class=\"fa fa-dribbble\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"fa fa-google-plus\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"fa fa-instagram\"></i></a> ",
+          "title": "mamaeva",
+          "text1": "Moscow",
+          "text2": "+79997181006",
+          "text3": "mamaeva@etlgr.com",
+          "icons": "<a class=\"fa\" data-app-btn=\"true\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrLinkColor\"><span class=\"fa fa-linkedin mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(219, 219, 219);\"></span></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrLinkColor\"><span class=\"fa fa-facebook mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(219, 219, 219);\"></span></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrLinkColor\"><span class=\"fa fa-twitter mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(219, 219, 219);\"></span></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Dribble\" target=\"_blank\" href=\"https://dribbble.com/Mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrLinkColor\"><span class=\"fa fa-dribbble mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(219, 219, 219);\"></span></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrLinkColor\"><span class=\"fa fa-google-plus mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(219, 219, 219);\"></span></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrLinkColor\"><span class=\"fa fa-instagram mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(219, 219, 219);\"></span></a> ",
           "alias": "unicore/components",
           "_tags": [
             "Тема"
           ],
           "_name": "contacts1",
-          "_anchor": "contacts1-15"
-        },
-        {
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#333",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+          "_anchor": "contacts1-15",
+          "_styles": {
+            "DIV": {
+              "color": "#dbdbdb"
             },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.5,
-            "googleMap": {
-              "address": "москва сити",
-              "placeId": "ChIJbxkcGdxLtUYROBdgPXZ9cFk",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          },
-          "title1": "Unicore",
-          "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eu arcu vitae neque euismod maximus. Aenean diam quam, sodales vitae semper ut, tempor vitae libero",
-          "icons": "<a class=\"fa\" data-app-btn=\"true\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"fa fa-linkedin\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"fa fa-facebook\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"fa fa-twitter\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Dribble\" target=\"_blank\" href=\"https://dribbble.com/Mobirise\"><i class=\"fa fa-dribbble\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"fa fa-google-plus\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"fa fa-instagram\"></i></a> ",
-          "text2": "Working Hours:<br>Mon - Fri &nbsp;&nbsp;10AM - 4PM",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn mbr-title-font btn-primary btn-ico\">Отправить<i class=\"fa fa-paper-plane-o\"></i></a>",
-          "title": "Быстрое сообщение",
-          "form": {
-            "action": "ant0ngolovin@yandex.ru",
-            "alerts": {
-              "success": "Сообщение отправлено!"
+            "H1": {
+              "color": "#dbdbdb"
             },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Имя"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Сообщение"
-              }
+            ".contact-info i": {
+              "color": "#dbdbdb !important"
             }
-          },
-          "alias": "unicore/components",
-          "_tags": [
-            "Тема"
-          ],
-          "_name": "contacts4",
-          "_anchor": "contacts4-13"
+          }
         },
         {
           "_params": {

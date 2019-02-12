@@ -17,67 +17,67 @@
   border-color: #111111;
 }
 .btn.btn-info {
-  background-color: #27aae0;
-  border-color: #27aae0;
+  background-color: #333333;
+  border-color: #333333;
 }
 .btn.btn-info:hover,
 .btn.btn-info:focus,
 .btn.btn-info.focus,
 .btn.btn-info:active,
 .btn.btn-info.active {
-  background-color: #177aa3;
-  border-color: #177aa3;
+  background-color: #0d0d0d;
+  border-color: #0d0d0d;
 }
 .btn.btn-success {
-  background-color: #7ac673;
-  border-color: #7ac673;
+  background-color: #dbdbdb;
+  border-color: #dbdbdb;
 }
 .btn.btn-success:hover,
 .btn.btn-success:focus,
 .btn.btn-success.focus,
 .btn.btn-success:active,
 .btn.btn-success.active {
-  background-color: #4da844;
-  border-color: #4da844;
+  background-color: #b5b5b5;
+  border-color: #b5b5b5;
 }
 .btn.btn-warning {
-  background-color: #8fafc3;
-  border-color: #8fafc3;
+  background-color: #f44336;
+  border-color: #f44336;
 }
 .btn.btn-warning:hover,
 .btn.btn-warning:focus,
 .btn.btn-warning.focus,
 .btn.btn-warning:active,
 .btn.btn-warning.active {
-  background-color: #5d8ba8;
-  border-color: #5d8ba8;
+  background-color: #d2190b;
+  border-color: #d2190b;
 }
 .btn.btn-danger {
-  background-color: #f97352;
-  border-color: #f97352;
+  background-color: #000000;
+  border-color: #000000;
 }
 .btn.btn-danger:hover,
 .btn.btn-danger:focus,
 .btn.btn-danger.focus,
 .btn.btn-danger:active,
 .btn.btn-danger.active {
-  background-color: #f63709;
-  border-color: #f63709;
+  background-color: #000000;
+  border-color: #000000;
 }
 .text-primary {
   color: #333333 !important;
 }
 .text-info {
-  color: #27aae0 !important;
+  color: #333333 !important;
 }
 .text-success {
-  color: #7ac673 !important;
+  color: #dbdbdb !important;
 }
 .text-warning {
-  color: #8fafc3 !important;
+  color: #f44336 !important;
 }
 .text-danger {
-  color: #f97352 !important;
+  color: #000000 !important;
 }
 a {
   color: #333333;
@@ -174,7 +174,7 @@ p {
 #header6-2 B {
   font-size: 72px;
   font-family: 'Source Sans Pro', sans-serif;
-  color: #333333;
+  color: #000000;
 }
 #header6-2 P {
   text-align: center;
@@ -183,4 +183,16 @@ p {
 }
 #pricing-table1-f H1 {
   color: #29d9c2;
+}
+#msg-box1-16 H2 {
+  color: #ffffff;
+}
+#contacts1-15 DIV {
+  color: #dbdbdb;
+}
+#contacts1-15 H1 {
+  color: #dbdbdb;
+}
+#contacts1-15 .contact-info i {
+  color: #dbdbdb !important;
 }
