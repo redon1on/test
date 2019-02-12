@@ -154,7 +154,7 @@ p {
 #dropdown-menu-12 .nav .link,
 #dropdown-menu-12 .dropdown-item {
   font-size: 1em;
-  color: #ffffff;
+  color: #dbdbdb;
 }
 #dropdown-menu-12 .navbar,
 #dropdown-menu-12 .dropdown-menu {
@@ -166,7 +166,7 @@ p {
   background: #292929;
 }
 #dropdown-menu-12 .navbar-toggler {
-  color: #ffffff;
+  color: #dbdbdb;
 }
 #header6-2 H3 {
   text-align: center;
@@ -180,9 +180,6 @@ p {
   text-align: center;
   color: #dbdbdb;
   font-size: 20px;
-}
-#pricing-table1-f H1 {
-  color: #29d9c2;
 }
 #msg-box1-16 H2 {
   color: #ffffff;
