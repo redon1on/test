@@ -20,7 +20,7 @@
       ]
     },
     "versionFirst": "4.7.2",
-    "uniqCompNum": 21,
+    "uniqCompNum": 33,
     "versionPublish": "4.7.2"
   },
   "pages": {
@@ -65,7 +65,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header9-3\">о нас</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-4\">SERVICE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Обзор</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Особенности</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Мобильный софт</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">На основе Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Модные блоки</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Ползунок изображения / содержимого</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">CКонтактные формы</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">IГалерея изображений</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Мобильное меню</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google карты</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Социальные кнопки</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Шрифты Google</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Видеоролик</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Хост везде</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Помощь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobiris.ru/\">Сайт</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary mbr-title-font\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header9-3\">о нас</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features6-4\">SERVICE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Обзор</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">мой блог</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Мобильный софт</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">На основе Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Модные блоки</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Ползунок изображения / содержимого</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">CКонтактные формы</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">IГалерея изображений</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Мобильное меню</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google карты</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Социальные кнопки</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Шрифты Google</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Видеоролик</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Хост везде</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Помощь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobiris.ru/\">Сайт</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary mbr-title-font\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -88,16 +88,19 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgImageRadio": true,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1574x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
-            "bgVideoRadio": false,
+            "bgVideoRadio": true,
             "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "https://www.youtube.com/embed/DJGGUCGxdAo?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=DJGGUCGxdAo",
+              "width": 1280,
+              "height": 720
             },
             "overlay": true,
             "overlayColor": "#000",
@@ -294,135 +297,206 @@
         },
         {
           "_params": {
+            "token": "696429711.727bfe1.4c5d8d27498b453782f338ca261ad822",
+            "showTitle": true,
+            "layoutGridRadio": true,
+            "imagesPerRowGrid": 4,
+            "rows": 2,
+            "showMoreButton": false,
+            "layoutSliderRadio": false,
+            "imagesPerRowSlider": 4,
+            "spacing": 5,
+            "fullWidth": false,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColorRadio": true,
+            "bgColor": "#00bcd4",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/instagram-feed/instagram-feed-block/assets/instagram-background.jpg",
+            "overlay": false,
+            "overlayColor": "#efefef",
+            "overlayOpacity": 0.6
+          },
+          "title": "PORTFOLIO",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary display-4\" href=\"#\" data-max-id=\"1219654904525201833_696429711\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,-mbrLink\">Show more</a>",
+          "display2": "display-2",
+          "display4": "display-4",
+          "alias": "instagram-feed",
+          "_tags": [
+            "Расширения"
+          ],
+          "_name": "instagram-feed-block",
+          "_anchor": "instagram-feed-block-o"
+        },
+        {
+          "_inherit": "header7",
+          "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/14.jpg",
             "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#8c230e",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
             "overlayColor": "#151515",
-            "overlayOpacity": 0.75
+            "overlayOpacity": 0.25,
+            "showIcons": true,
+            "iconsColor": "#fff",
+            "icon1": "fa-database",
+            "icon2": "fa-lightbulb-o",
+            "icon3": "fa-money",
+            "icon4": "fa-clock-o",
+            "showTitles": true
           },
-          "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; OUR PORTFOLIO",
-          "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn mbr-title-font cta-btn btn-default\" href=\"http://mobiris.ru\" data-toolbar=\"-mbrBtnMove\">Купить сейчас</a>",
           "alias": "unicore/components",
           "_tags": [
             "Тема"
           ],
-          "_name": "msg-box2",
-          "_styles": {
-            "H2": {
-              "text-align": "center"
-            },
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "msg-box2-c"
+          "title": "Знакомьтесь с Unicore<br>инструмент для целевых страниц",
+          "title1": "Multi Layouts",
+          "title2": "Creative Idea",
+          "title3": "Target Buyers",
+          "title4": "Reach Top",
+          "text": "Nam tellus turpis blandit et ligula vel lacinia massa sit amet minus fugit in ipsum semper euismod massa auctor magna eget nunc iaculis nunc.",
+          "buttons": "<a data-app-btn=\"true\" href=\"#\" class=\"btn mbr-title-font btn-lg btn-primary\">Купить сейчас <i class=\"fa fa-shopping-basket\"></i></a>",
+          "_name": "header27",
+          "_anchor": "header27-r"
         },
         {
           "_params": {
-            "showBullets": true,
-            "filter": true,
-            "fullWidth": true,
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "noGutter": true,
+            "showTitles": true,
             "showText": true,
-            "bgColor": "#fff",
-            "images": [
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "image": "@PROJECT_PATH@/assets/images/bike.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/bike-small.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "caption": "Мой ахуенный велосипд",
-                "active": true
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/code-man.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/code-man-small.jpg",
-                "caption": "Введите подпись здесь"
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/coworkers.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coworkers-small.jpg",
-                "caption": "Введите подпись здесь"
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/desktop.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/desktop-small.jpg",
-                "caption": "Введите подпись здесь"
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/room-laptop-small.jpg",
-                "caption": "Введите подпись здесь"
-              },
-              {
-                "tags": "Beautiful",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/table.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/table-small.jpg",
-                "caption": "Введите подпись здесь"
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/windows-books.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/windows-books-small.jpg",
-                "caption": "Введите подпись здесь"
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/working-area.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/working-area-small.jpg",
-                "caption": "Введите подпись здесь"
-              }
-            ]
+            "showMedia": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#222",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75,
+            "showIcons": true,
+            "iconsColor": "@primaryColor",
+            "icon1": "fa-database",
+            "icon2": "fa-paint-brush",
+            "icon3": "fa-file",
+            "icon4": "fa-pencil",
+            "icon5": "fa-link",
+            "icon6": "fa-phone"
           },
-          "articleLayout": false,
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img img-responsive",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/13.png"
+            }
+          },
+          "title1": "Мульти-макеты",
+          "title2": "Быстрое обновление",
+          "title3": "Clean Docs",
+          "title4": "Креативность",
+          "title5": "Great Heights",
+          "title6": "Всесторонняя поддержка",
+          "text1": "Suspendisse nec lorem non porta iaculis odio dictum quis ac lorem.",
+          "text2": "Suspendisse nec lorem non porta iaculis odio dictum quis ac lorem.",
+          "text3": "Suspendisse nec lorem non porta iaculis odio dictum quis ac lorem.",
+          "text4": "Suspendisse nec lorem non porta iaculis odio dictum quis ac lorem.",
+          "text5": "Suspendisse nec lorem non porta iaculis odio dictum quis ac lorem.",
+          "text6": "Suspendisse nec lorem non porta iaculis odio dictum quis ac lorem.",
           "alias": "unicore/components",
           "_tags": [
             "Тема"
           ],
-          "_name": "gallery3",
-          "_anchor": "gallery3-b"
+          "_name": "header22",
+          "_anchor": "header22-t"
+        },
+        {
+          "_params": {
+            "showText": true,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=z41Uy3Tg-yI"
+            }
+          },
+          "text": "Сократите время разработки с помощью перетаскивающего веб-сайта.",
+          "alias": "unicore/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-s"
+        },
+        {
+          "_params": {
+            "inverse": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "@primaryColor",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": true,
+            "facebook": true,
+            "google": true,
+            "twitter": true
+          },
+          "text": "ПОДЕЛИТЕСЬ ЭТОЙ СТРАНИЦЕЙ!",
+          "alias": "unicore/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-w"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#00bcd4",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "",
+          "icons": "<a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-twitter\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><span class=\"fa fa-vk mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-googleplus\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-youtube\" title=\"YouTube\" target=\"_blank\" href=\"http://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-pinterest\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"mbr-social-icons__icon socicon-bg-github\" title=\"GitHub\" target=\"_blank\" href=\"https://github.com/Mobirise\"><i class=\"socicon socicon-github\"></i></a>    ",
+          "alias": "unicore/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-q"
         },
         {
           "_params": {
@@ -696,6 +770,59 @@
             "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
             "bgColorRadio": true,
+            "bgColor": "@primaryColor",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "title": "Контактная фонрма",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn mbr-title-font btn-default btn-ico\">Отправить<i class=\"fa fa-paper-plane-o\"></i></a>",
+          "form": {
+            "action": "ant0ngolovin@yandex.ru",
+            "alerts": {
+              "success": "Благодарим за заполнение формы!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Имя*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "subject": {
+                "visible": true,
+                "title": "subject",
+                "customTitle": "Тема"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Сообщение"
+              }
+            }
+          },
+          "alias": "unicore/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-n"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
             "bgColor": "#111",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -745,6 +872,75 @@
           ],
           "_name": "contacts1",
           "_anchor": "contacts1-j"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/10.jpg",
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "title": "Стильный параллаксный ряд",
+          "text": "Добавить свой собственный фон параллакса",
+          "alias": "unicore/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "parallax1",
+          "_anchor": "parallax1-v"
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showSubtitle": true,
+            "showText": true,
+            "elements": "4",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#222",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "button1": "<a data-app-btn=\"true\" class=\"btn mbr-title-font btn-info btn-circle\" data-toggle=\"tab\" href=\"#menu1-1\"><i class=\"fa fa-info fa-3x\"></i></a>",
+          "button2": "<a data-app-btn=\"true\" class=\"btn mbr-title-font btn-default btn-circle\" data-toggle=\"tab\" href=\"#menu2-1\" data-toolbar=\"-mbrBtnMove\"><i class=\"fa fa-file-text-o fa-3x\"></i></a>",
+          "button3": "<a data-app-btn=\"true\" class=\"btn mbr-title-font btn-default btn-circle\" data-toggle=\"tab\" href=\"#menu3-1\" data-toolbar=\"-mbrBtnMove\"><i class=\"fa fa-image fa-3x\"></i></a>",
+          "button4": "<a data-app-btn=\"true\" class=\"btn mbr-title-font btn-default btn-circle\" data-toggle=\"tab\" href=\"#menu4-1\"><i class=\"fa fa-check fa-3x\"></i></a>",
+          "button5": "<a data-app-btn=\"true\" class=\"btn mbr-title-font btn-default btn-circle\" data-toggle=\"tab\" href=\"#menu5-1\"><i class=\"fa fa-star fa-3x\"></i></a>",
+          "title1": "Fill<br />information",
+          "title2": "Fill<br />description",
+          "title3": "Upload<br />images",
+          "title4": "Save<br>result",
+          "title5": "Upload<br />information",
+          "subtitle1": "Fill Information",
+          "subtitle2": "Fill description",
+          "subtitle3": "Upload Images",
+          "subtitle4": "Save Result",
+          "subtitle5": "Upload Information",
+          "text1": "Nam sed mollis nisi. Praesent laoreet imperdiet est eget viverra. Aliquam ultrices euismod pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed pellentesque nibh eros, sed semper metus interdum nec. Aliquam erat volutpat. Morbi ut lectus venenatis, rutrum nunc ut, consectetur purus. Praesent ultrices sapien quam, non elementum metus sagittis id. Quisque rutrum, ex sed ultrices congue, ante nulla varius ipsum, id malesuada lorem justo eget sem. Aliquam erat volutpat. Curabitur a libero sem. Donec pulvinar aliquet dui, non varius ipsum ultricies sed. Praesent molestie arcu arcu, eu fermentum justo malesuada ut.",
+          "text2": "Nam sed mollis nisi. Praesent laoreet imperdiet est eget viverra. Aliquam ultrices euismod pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed pellentesque nibh eros, sed semper metus interdum nec. Aliquam erat volutpat. Morbi ut lectus venenatis, rutrum nunc ut, consectetur purus. Praesent ultrices sapien quam, non elementum metus sagittis id. Quisque rutrum, ex sed ultrices congue, ante nulla varius ipsum, id malesuada lorem justo eget sem. Aliquam erat volutpat. Curabitur a libero sem. Donec pulvinar aliquet dui, non varius ipsum ultricies sed. Praesent molestie arcu arcu, eu fermentum justo malesuada ut.",
+          "text3": "Nam sed mollis nisi. Praesent laoreet imperdiet est eget viverra. Aliquam ultrices euismod pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed pellentesque nibh eros, sed semper metus interdum nec. Aliquam erat volutpat. Morbi ut lectus venenatis, rutrum nunc ut, consectetur purus. Praesent ultrices sapien quam, non elementum metus sagittis id. Quisque rutrum, ex sed ultrices congue, ante nulla varius ipsum, id malesuada lorem justo eget sem. Aliquam erat volutpat. Curabitur a libero sem. Donec pulvinar aliquet dui, non varius ipsum ultricies sed. Praesent molestie arcu arcu, eu fermentum justo malesuada ut.",
+          "text4": "Nam sed mollis nisi. Praesent laoreet imperdiet est eget viverra. Aliquam ultrices euismod pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed pellentesque nibh eros, sed semper metus interdum nec. Aliquam erat volutpat. Morbi ut lectus venenatis, rutrum nunc ut, consectetur purus. Praesent ultrices sapien quam, non elementum metus sagittis id. Quisque rutrum, ex sed ultrices congue, ante nulla varius ipsum, id malesuada lorem justo eget sem. Aliquam erat volutpat. Curabitur a libero sem. Donec pulvinar aliquet dui, non varius ipsum ultricies sed. Praesent molestie arcu arcu, eu fermentum justo malesuada ut.",
+          "text5": "Nam sed mollis nisi. Praesent laoreet imperdiet est eget viverra. Aliquam ultrices euismod pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed pellentesque nibh eros, sed semper metus interdum nec. Aliquam erat volutpat. Morbi ut lectus venenatis, rutrum nunc ut, consectetur purus. Praesent ultrices sapien quam, non elementum metus sagittis id. Quisque rutrum, ex sed ultrices congue, ante nulla varius ipsum, id malesuada lorem justo eget sem. Aliquam erat volutpat. Curabitur a libero sem. Donec pulvinar aliquet dui, non varius ipsum ultricies sed. Praesent molestie arcu arcu, eu fermentum justo malesuada ut.",
+          "alias": "unicore/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "msg-box17",
+          "_anchor": "msg-box17-u"
         }
       ]
     }
