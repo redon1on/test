@@ -93,7 +93,7 @@
             "showText": true,
             "showButtons": true,
             "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1574x1080.jpg",
             "parallax": true,
