@@ -1,6 +1,12 @@
-@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Caveat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Pacifico:400);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Marck+Script:400);
+
+
+
+
 
 
 
@@ -41,16 +47,16 @@
   border-color: #b5b5b5;
 }
 .btn.btn-warning {
-  background-color: #f44336;
-  border-color: #f44336;
+  background-color: #aa3b45;
+  border-color: #aa3b45;
 }
 .btn.btn-warning:hover,
 .btn.btn-warning:focus,
 .btn.btn-warning.focus,
 .btn.btn-warning:active,
 .btn.btn-warning.active {
-  background-color: #d2190b;
-  border-color: #d2190b;
+  background-color: #71272e;
+  border-color: #71272e;
 }
 .btn.btn-danger {
   background-color: #000000;
@@ -74,7 +80,7 @@
   color: #dbdbdb !important;
 }
 .text-warning {
-  color: #f44336 !important;
+  color: #aa3b45 !important;
 }
 .text-danger {
   color: #000000 !important;
@@ -142,19 +148,20 @@ blockquote {
 }
 .mbr-title-font,
 .mbr-gallery-filter li {
-  font-family: 'Montserrat', sans-serif !important;
+  font-family: 'Caveat', handwriting !important;
 }
 .mbr-text-font,
 p {
-  font-family: 'Raleway', sans-serif !important;
+  font-family: 'Marck Script', handwriting !important;
 }
 #dropdown-menu-12 .hide-buttons [data-button] {
   display: none !important;
 }
 #dropdown-menu-12 .nav .link,
 #dropdown-menu-12 .dropdown-item {
-  font-size: 1em;
-  color: #dbdbdb;
+  font-size: 1.2em;
+  color: #ffffff;
+  font-family: 'Caveat', handwriting;
 }
 #dropdown-menu-12 .navbar,
 #dropdown-menu-12 .dropdown-menu {
@@ -166,30 +173,84 @@ p {
   background: #292929;
 }
 #dropdown-menu-12 .navbar-toggler {
-  color: #dbdbdb;
+  color: #ffffff;
+}
+#dropdown-menu-12 .btn {
+  font-size: 15px;
 }
 #header6-2 H3 {
   text-align: center;
 }
 #header6-2 B {
   font-size: 72px;
-  font-family: 'Source Sans Pro', sans-serif;
-  color: #000000;
+  font-family: 'Caveat', handwriting;
+  color: #aa3b45;
 }
 #header6-2 P {
   text-align: center;
-  color: #dbdbdb;
+  color: #ffffff;
+  font-size: 36px;
+  font-family: 'Pacifico', handwriting;
+}
+#header6-2 .btn {
   font-size: 20px;
+}
+#header9-1d H3 {
+  font-family: 'Lora', serif;
+  font-size: 72px;
+}
+#header9-1d P {
+  font-size: 36px;
+}
+#pricing-table1-1a SPAN {
+  font-size: 46px;
+}
+#pricing-table1-1a H1 {
+  font-size: 48px;
+}
+#pricing-table1-1a P {
+  font-size: 20px;
+  font-family: 'PT Sans', sans-serif;
+  text-align: center;
+}
+#pricing-table1-1a H3 {
+  font-size: 22px;
+  text-align: center;
+}
+#pricing-table1-1a UL {
+  font-size: 17px;
+}
+#header22-t H4 {
+  font-size: 32px;
+  text-align: left;
+}
+#header22-t P {
+  font-size: 20px;
+  text-align: left;
+}
+#header22-t i {
+  color: #aa3b45 !important;
+}
+#slider-1l P {
+  font-size: 36px;
 }
 #msg-box1-16 H2 {
   color: #ffffff;
+  font-size: 36px;
+}
+#msg-box1-16 P {
+  font-size: 22px;
 }
 #contacts1-15 DIV {
   color: #dbdbdb;
+  font-size: 22px;
 }
 #contacts1-15 H1 {
   color: #dbdbdb;
 }
 #contacts1-15 .contact-info i {
   color: #dbdbdb !important;
+}
+#footer1-k DIV {
+  font-size: 16px;
 }

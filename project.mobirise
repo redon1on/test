@@ -9,10 +9,10 @@
         "primaryColor": "#333333",
         "successColor": "#dbdbdb",
         "infoColor": "#333333",
-        "warningColor": "#f44336",
+        "warningColor": "#aa3b45",
         "dangerColor": "#000000",
-        "titleFont": "Montserrat",
-        "textFont": "Raleway",
+        "titleFont": "Caveat",
+        "textFont": "Marck Script",
         "isSquareButtons": false
       },
       "additionalSetColors": [
@@ -20,11 +20,12 @@
         "#7ac673",
         "#333333",
         "#dbdbdb",
-        "#000000"
+        "#000000",
+        "#aa3b45"
       ]
     },
     "versionFirst": "4.7.2",
-    "uniqCompNum": 51,
+    "uniqCompNum": 58,
     "versionPublish": "4.7.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -33,8 +34,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "MAMAEVA",
+        "meta_descr": "UX - UI DESIGNER",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -47,8 +48,10 @@
             },
             ".navbar-brand a": {},
             ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#dbdbdb"
+              "font-size": "1.2em",
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Caveat:400,700",
+              "font-family": "'Caveat', handwriting"
             },
             ".navbar, .dropdown-menu": {
               "background": "#333"
@@ -57,7 +60,10 @@
               "background": "#292929"
             },
             ".navbar-toggler": {
-              "color": "#dbdbdb"
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-size": "15px"
             }
           },
           "_params": {
@@ -67,11 +73,15 @@
             "sticky": true,
             "transparent": true,
             "bgColor": "#333",
-            "fontSize": 1,
-            "fontName": {},
-            "fontColor": "#dbdbdb"
+            "fontSize": "1.2",
+            "fontName": {
+              "name": "Caveat",
+              "url": "https://fonts.googleapis.com/css?family=Caveat:400,700",
+              "css": "'Caveat', handwriting"
+            },
+            "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Обзор</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Особенности</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Мобильный софт</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">На основе Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Модные блоки</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Ползунок изображения / содержимого</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">CКонтактные формы</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">IГалерея изображений</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Мобильное меню</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google карты</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Социальные кнопки</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Шрифты Google</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Видеоролик</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Хост везде</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Помощь</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobiris.ru/\">Сайт</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn mbr-title-font btn-danger\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">обо мне</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">цены</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">особенности</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">отзывы</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn mbr-title-font btn-warning\" href=\"https://mobirise.com/\">Заказать</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -96,12 +106,12 @@
             "showButtons": true,
             "paddingTop": "2",
             "paddingBottom": "3",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1574x1080.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/embed/DJGGUCGxdAo?rel=0&amp;showinfo=0&autoplay=0&loop=0",
               "rawUrl": "https://www.youtube.com/watch?v=DJGGUCGxdAo",
@@ -114,7 +124,7 @@
           },
           "title": "<b>&nbsp; Landing Page Design</b>",
           "text": "Стильный сайт под ваши нужды<br><br>",
-          "buttons": "<a data-app-btn=\"true\" href=\"#\" class=\"btn mbr-title-font btn-lg btn-danger\" data-toolbar=\"-mbrBtnMove\">Заказать</a> <a data-app-btn=\"true\" href=\"#\" class=\"btn mbr-title-font btn-lg btn-default btn-border\" data-toolbar=\"-mbrBtnMove\">Цены</a>",
+          "buttons": "<a data-app-btn=\"true\" href=\"#\" class=\"btn mbr-title-font btn-lg btn-warning\" data-toolbar=\"-mbrBtnMove\">Заказать</a> <a data-app-btn=\"true\" href=\"#\" class=\"btn mbr-title-font btn-lg btn-default btn-border\" data-toolbar=\"-mbrBtnMove\">Цены</a>",
           "alias": "unicore/components",
           "_tags": [
             "Тема"
@@ -127,13 +137,18 @@
             },
             "B": {
               "font-size": "72px",
-              "font-family": "'Source Sans Pro', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
-              "color": "#000000"
+              "font-family": "'Caveat', handwriting",
+              "googleLink": "https://fonts.googleapis.com/css?family=Caveat:400,700",
+              "color": "#aa3b45"
             },
             "P": {
               "text-align": "center",
-              "color": "#dbdbdb",
+              "color": "#ffffff",
+              "font-size": "36px",
+              "font-family": "'Pacifico', handwriting",
+              "googleLink": "https://fonts.googleapis.com/css?family=Pacifico:400"
+            },
+            ".btn": {
               "font-size": "20px"
             }
           }
@@ -143,9 +158,9 @@
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "showMedia": false,
+            "showMedia": true,
             "bgImageRadio": false,
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": 0,
             "bgImage": "@THEME_PATH@/components/_images/16.jpg",
             "parallax": false,
@@ -164,7 +179,7 @@
               "active": true,
               "class": "mbr-figure__img img-responsive",
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/4.png",
+              "src": "@PROJECT_PATH@/assets/images/2ae59c60ebd588bc8013c5ddabd4b229-650x850.png",
               "link": "",
               "alt": "",
               "title": ""
@@ -178,14 +193,24 @@
             }
           },
           "title": "Меня зовут Юлия.",
-          "text": "<p>Я создаю красивые сайты &nbsp;<span style=\"background-color: inherit;\">которые расширяют возможности вашего стартапа. Я заинтересована во всех видах визуальных коммуникаций, но моя основная задача - разработка веб-интерфейсов. У меня также есть навыки в других областях, таких как брендинг, дизайн логотипов или иконок.</span></p><br><ul><li><i class=\"icon-check2 mbr-primary-color\"><br></i></li></ul>",
+          "text": "<p><span style=\"background-color: inherit;\">Я создаю красивые сайты&nbsp;</span><span style=\"background-color: inherit;\">которые расширяют возможности вашего стартапа. Я заинтересована во всех видах визуальных коммуникаций, но моя основная задача - разработка веб-интерфейсов. У меня также есть навыки в других областях, таких как брендинг, дизайн логотипов или иконок.&nbsp;</span></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn mbr-title-font btn-lg btn-primary\">Купить сейчас <i class=\"fa fa-shopping-basket\"></i></a>",
           "alias": "unicore/components",
           "_tags": [
             "Тема"
           ],
           "_name": "header9",
-          "_anchor": "header9-1d"
+          "_anchor": "header9-1d",
+          "_styles": {
+            "H3": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "72px"
+            },
+            "P": {
+              "font-size": "36px"
+            }
+          }
         },
         {
           "_params": {
@@ -231,30 +256,30 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.5
           },
-          "title": "Выберите нужную вам услугу",
+          "title": "Выберите услугу",
           "text": "(цена варьируется от колличества и типа блоков)",
-          "favorite": "Most Popular",
-          "title1": "копия статичного сайта",
+          "favorite": "Популярный",
+          "title1": "<i>Копия статичного сайта</i>",
           "text1": "Скопирую выбранный вами сайт",
           "currency1": "от",
           "price1": "100₽",
-          "period1": "/ за сайт",
+          "period1": "/ за блок",
           "list1": "<ul class=\"pricing__feature-list mbr-text-font\"><li class=\"pricing__feature\">до 1 часа работы</li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"http://mobiris.ru\" class=\"btn mbr-title-font btn-danger\" data-toolbar=\"-mbrBtnMove\">заказать</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html#form1-14\" class=\"btn mbr-title-font btn-warning\" data-toolbar=\"-mbrBtnMove\">заказать</a>",
           "title2": "индивидуальный дизайн сайта",
           "text2": "Индивидуальный дизайн сайта",
           "currency2": "от",
           "price2": "500₽",
           "period2": "/ за сайт",
           "list2": "<ul class=\"pricing__feature-list mbr-text-font\"><li class=\"pricing__feature\">до 1 дня работы</li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"http://mobiris.ru\" class=\"btn mbr-title-font btn-danger\" data-toolbar=\"-mbrBtnMove\">заказать</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"index.html#form1-14\" class=\"btn mbr-title-font btn-warning\" data-toolbar=\"-mbrBtnMove\">заказать</a>",
           "title3": "дизайн для бизнеса&nbsp;",
-          "text3": "Сайт, логотип, визитки и т д &nbsp;",
+          "text3": "Сайт, логотип, визитки и прочее",
           "currency3": "от",
           "price3": "1000₽",
           "period3": "/ за проект",
           "list3": "<ul class=\"pricing__feature-list mbr-text-font\"><li class=\"pricing__feature\">до 1 недели работы&nbsp;</li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"http://mobiris.ru\" class=\"btn mbr-title-font btn-danger\" data-toolbar=\"-mbrBtnMove\">заказать</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html#form1-14\" class=\"btn mbr-title-font btn-warning\" data-toolbar=\"-mbrBtnMove\">заказать</a>",
           "title4": "SUPER",
           "text4": "Perfect for small less than 10 team",
           "currency4": "$",
@@ -267,7 +292,28 @@
             "Тема"
           ],
           "_name": "pricing-table1",
-          "_anchor": "pricing-table1-1a"
+          "_anchor": "pricing-table1-1a",
+          "_styles": {
+            "SPAN": {
+              "font-size": "46px"
+            },
+            "H1": {
+              "font-size": "48px"
+            },
+            "P": {
+              "font-size": "20px",
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700",
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "22px",
+              "text-align": "center"
+            },
+            "UL": {
+              "font-size": "17px"
+            }
+          }
         },
         {
           "_params": {
@@ -275,7 +321,7 @@
             "showText": true,
             "showMedia": true,
             "paddingTop": "1",
-            "paddingBottom": 2,
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/1.jpg",
             "parallax": false,
@@ -289,13 +335,13 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.75,
             "showIcons": true,
-            "iconsColor": "@primaryColor",
-            "icon1": "fa-database",
-            "icon2": "fa-paint-brush",
-            "icon3": "fa-file",
-            "icon4": "fa-pencil",
-            "icon5": "fa-link",
-            "icon6": "fa-phone"
+            "iconsColor": "#aa3b45",
+            "icon1": "fa-tablet",
+            "icon2": "fa-photo",
+            "icon3": "",
+            "icon4": "fa-comments",
+            "icon5": "fa-envelope",
+            "icon6": ""
           },
           "media": {
             "image": {
@@ -306,23 +352,121 @@
             }
           },
           "title1": "Мобильная версия",
-          "title2": "Быстрое обновление",
-          "title3": "Clean Docs",
-          "title4": "Креативность",
-          "title5": "Great Heights",
-          "title6": "Всесторонняя поддержка",
-          "text1": "Не один из элементов сайта не будет упущен в мобильной версии.",
-          "text2": "Suspendisse nec lorem non porta iaculis odio dictum quis ac lorem.",
-          "text3": "Suspendisse nec lorem non porta iaculis odio dictum quis ac lorem.",
-          "text4": "Suspendisse nec lorem non porta iaculis odio dictum quis ac lorem.",
-          "text5": "Suspendisse nec lorem non porta iaculis odio dictum quis ac lorem.",
-          "text6": "Suspendisse nec lorem non porta iaculis odio dictum quis ac lorem.",
+          "title2": "Ленты Youtube и Instagram",
+          "title3": "",
+          "title4": "Калбекеры и чаты",
+          "title5": "Формы обратной связи",
+          "title6": "",
+          "text1": "Не один из элементов сайта не будет упущен в мобильной версии. Не стоит забывать что 80% клиентов переходят именно с мобильных устройств.",
+          "text2": "Ведёте Youtube или Instagram?<br> Ваши фото и видео будут автоматически публиковаться на сайте.",
+          "text3": "",
+          "text4": "Нужен чат или хотите чтобы оператор соеденял вас с клиентом по телефону? Подключу подходяший сервис для связи",
+          "text5": "Ваши клиенты всегда смогут оставить вопрос прямо на сайте, а вы получите его на свою почту,",
+          "text6": "",
           "alias": "unicore/components",
           "_tags": [
             "Тема"
           ],
           "_name": "header22",
-          "_anchor": "header22-t"
+          "_anchor": "header22-t",
+          "_styles": {
+            "H4": {
+              "font-size": "32px",
+              "text-align": "left"
+            },
+            "P": {
+              "font-size": "20px",
+              "text-align": "left"
+            },
+            "i": {
+              "color": "#aa3b45 !important"
+            }
+          }
+        },
+        {
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#333333",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1631x1080.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "Екатерина Д.",
+                "contentAlign": "center",
+                "overlay": "true",
+                "text": "Случай свел меня с Юлией, и буквально после часа общения с ний, я уже нисколько не сомневалась, что мой сайт будет делать именно она. Сайт получился красивым, стильным и полезным. Девушка применила все свои знания и возможности в работе над ним, была внимательны к просьбам и пожеланиям, терпелива в общении с нами. И хотя запущен сайт совсем недавно, мы уже получаем заявки от наших первых пользователей.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary mbr-title-font\" href=\"http://mobiris.ru\">Для WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default mbr-title-font\" href=\"http://mobirisru\">Для MAC</a>",
+                "overlayOpacity": "0.7"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1631x1080.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "Илья З.",
+                "contentAlign": "center",
+                "overlay": "true",
+                "text": "Хочу поблагодарить Юлию за интересную и плодотворную работу над нашим сайтом. Мне больше всего понравилось, что специалист не просто реализовывала мои идеи, а аргументированно со мной спорила, предлагала свои конструктивные варианты, и в конечном итоге мы сделали красивый и удобный для клиентов сайт.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary mbr-title-font\" href=\"http://mobiris.ru\">Для WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default mbr-title-font\" href=\"http://mobiris.ru\">Для MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1631x1080.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "Михаил Е.",
+                "contentAlign": "center",
+                "overlay": "true",
+                "text": "Заказывали сайт, всем довольны, результаты впечатляют. За 2 месяца взяли топ-3 по авто тематике. Понравились консультации специалиста. Будем однозначно работат",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary mbr-title-font\" href=\"http://mobiris.ru\">Для WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default mbr-title-font\" href=\"http://mobiris.ru\">Для MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1631x1080.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "Вадим Л.",
+                "contentAlign": "center",
+                "overlay": "true",
+                "text": "Работали по нескольким проектам. Нравится сотрудничество, отличная верстка. Дал исходник получил 1:1 верстку. Внимание к мелочам. Отличный специалист.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary mbr-title-font\" href=\"http://mobiris.ru\">Для WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default mbr-title-font\" href=\"http://mobiris.ru\">Для MAC</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1631x1080.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "Фёдор C.",
+                "contentAlign": "center",
+                "overlay": "true",
+                "text": "Остался довольным результатом. Хотя и было много ньюнсов которые я не понимал, но Михаил доступно объяснил и помог разобраться с выбором. Советую!",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary mbr-title-font\" href=\"http://mobiris.ru\">Для WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default mbr-title-font\" href=\"http://mobiris.ru\">Для MAC</a>"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "unicore/components",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-1l",
+          "_styles": {
+            "P": {
+              "font-size": "36px"
+            }
+          }
         },
         {
           "_params": {
@@ -355,7 +499,11 @@
           "_anchor": "msg-box1-16",
           "_styles": {
             "H2": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "36px"
+            },
+            "P": {
+              "font-size": "22px"
             }
           }
         },
@@ -377,7 +525,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Контактная фонрма",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn mbr-title-font btn-ico btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить<i class=\"fa fa-paper-plane-o\"></i></a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn mbr-title-font btn-ico btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить<i class=\"fa fa-paper-plane-o\"></i></a>",
           "form": {
             "action": "mamaeva@etlgr.com",
             "alerts": {
@@ -430,7 +578,7 @@
             "overlayOpacity": 0.75,
             "iconsColor": "#dbdbdb",
             "icon1": "fa-map-marker",
-            "icon2": "fa-phone",
+            "icon2": "fa-whatsapp",
             "icon3": "fa-envelope"
           },
           "title": "mamaeva",
@@ -446,7 +594,8 @@
           "_anchor": "contacts1-15",
           "_styles": {
             "DIV": {
-              "color": "#dbdbdb"
+              "color": "#dbdbdb",
+              "font-size": "22px"
             },
             "H1": {
               "color": "#dbdbdb"
@@ -479,46 +628,12 @@
             "Тема"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-k"
-        },
-        {
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.75,
-            "iconsColor": "@primaryColor",
-            "icon1": "fa-mobile",
-            "icon2": "fa-check-square-o",
-            "icon3": "fa-map-marker",
-            "icon4": "fa-envelope"
-          },
-          "title": "Любые вопросы ? Связаться с нами",
-          "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit quisque elementum volutpat massa ac interdum velit imperdiet vel lacinia massa viverra dolor quis congue pellentesque.",
-          "title1": "Позвоните нам",
-          "title2": "Поддержка",
-          "title3": "Адрес",
-          "title4": "Email",
-          "text1": "(080) 123 456 7890",
-          "text2": "support@website.com",
-          "text3": "24, Wallstreet, NY 20001",
-          "text4": "support@website.com",
-          "alias": "unicore/components",
-          "_tags": [
-            "Тема"
-          ],
-          "_name": "contacts5",
-          "_anchor": "contacts5-1e"
+          "_anchor": "footer1-k",
+          "_styles": {
+            "DIV": {
+              "font-size": "16px"
+            }
+          }
         }
       ]
     }
